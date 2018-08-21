@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MakeupTutorial4</string>
+    <string name="action_camera">camera</string>
+    <string name="title_activity_style1">Style1Activity</string>
+    <string name="one">Working</string>
+    <string name="two">Party</string>
+    <string name="three">Wedding</string>
+    <string name="Four">Exercise</string>
+    <string name="BtnSimulate">SIMULATE</string>
+    <string name="BtnTutorial">TUTORIAL</string>
+    <string name="BtnStart">START</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_image_filter">ImageFilterActivity</string>
+</resources>
